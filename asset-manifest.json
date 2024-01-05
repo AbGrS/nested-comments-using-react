@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-nested-comments/static/css/main.fc5c2c69.css",
-    "main.js": "/react-nested-comments/static/js/main.43b9607d.js",
-    "index.html": "/react-nested-comments/index.html",
-    "main.fc5c2c69.css.map": "/react-nested-comments/static/css/main.fc5c2c69.css.map",
-    "main.43b9607d.js.map": "/react-nested-comments/static/js/main.43b9607d.js.map"
+    "main.css": "/nested-comments-using-react/static/css/main.fc5c2c69.css",
+    "main.js": "/nested-comments-using-react/static/js/main.43b9607d.js",
+    "index.html": "/nested-comments-using-react/index.html",
+    "main.fc5c2c69.css.map": "/nested-comments-using-react/static/css/main.fc5c2c69.css.map",
+    "main.43b9607d.js.map": "/nested-comments-using-react/static/js/main.43b9607d.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
